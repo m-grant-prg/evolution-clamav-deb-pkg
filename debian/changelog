@@ -1,0 +1,66 @@
+evolution-clamav (1.0.3+deb11u2) bullseye; urgency=medium
+
+  * Upgrade to compatibility level 13.
+  * Update debian/* Copyright for 2022.
+  * Add Depends on OBS signing key package.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 29 Apr 2022 09:28:19 +0100
+
+evolution-clamav (1.0.3-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+  * Review up to current standards version 4.5.1
+  * Correct license in copyright.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 23 Nov 2021 10:37:19 +0000
+
+evolution-clamav (1.0.2-deb11u1) bullseye; urgency=medium
+
+  * Create bullseye branch.
+  * Remove unnecessary .docs file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Aug 2021 09:57:27 +0100
+
+evolution-clamav (1.0.2-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 02 Jul 2021 09:57:27 +0100
+
+evolution-clamav (1.0.1+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+  * Update Copyright for 2021.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 04 Mar 2021 15:50:05 +0000
+
+evolution-clamav (1.0.1-deb10u3) buster; urgency=medium
+
+  * Upgrade to compatibility level 12.
+  * Package reviewed up to current standards version 4.3.0.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Oct 2020 14:11:21 +0000
+
+evolution-clamav (1.0.1-deb10u2) buster; urgency=medium
+
+  * Correct architecture from any to all.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Feb 2020 13:25:21 +0000
+
+evolution-clamav (1.0.1-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Feb 2020 09:45:21 +0000
+
+evolution-clamav (1.0.0+rc2-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 12 Feb 2020 10:23:27 +0000
+
+evolution-clamav (1.0.0+rc1-deb10u1) buster; urgency=medium
+
+  * Initial release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 11 Feb 2020 15:30:34 +0000
