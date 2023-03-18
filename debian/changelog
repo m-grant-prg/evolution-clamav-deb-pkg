@@ -1,3 +1,9 @@
+evolution-clamav (1.0.3+deb11u3) UNRELEASED; urgency=medium
+
+  * Update Copyright for 2023.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 18 Mar 2023 10:37:48 +0000
+
 evolution-clamav (1.0.3+deb11u2) bullseye; urgency=medium
 
   * Upgrade to compatibility level 13.
