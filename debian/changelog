@@ -1,9 +1,9 @@
-evolution-clamav (1.0.3+deb11u3) UNRELEASED; urgency=medium
+evolution-clamav (1.0.3+deb11u3) bullseye; urgency=medium
 
   * Update Copyright for 2023.
   * Update watch file to use git mode.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sat, 18 Mar 2023 10:37:48 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 18 Mar 2023 10:39:34 +0000
 
 evolution-clamav (1.0.3+deb11u2) bullseye; urgency=medium
 
