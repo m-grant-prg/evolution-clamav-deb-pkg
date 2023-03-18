@@ -1,0 +1,53 @@
+evolution-clamav (1.0.3-0ubuntu20.04u1) focal; urgency=medium
+
+  * New upstream release.
+  * Reviewed up to current standards version 4.5.1
+  * Correct license version in copyright.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 23 Nov 2021 10:46:36 +0000
+
+evolution-clamav (1.0.2-0ubuntu20.04u1) focal; urgency=medium
+
+  * New upstream release.
+  * Update Copyright for 2021.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 02 Jul 2021 10:12:04 +0100
+
+evolution-clamav (1.0.1-1ubuntu2) focal; urgency=medium
+
+  * Create focal branch.
+  * Upgrade to compatibility level 12.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Oct 2020 13:53:21 +0000
+
+evolution-clamav (1.0.1-1ubuntu1) bionic; urgency=medium
+
+  * Create bionic branch.
+  * Correct for compatibility level 11.
+  * Package reviewed up to current standards version 4.3.0.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Oct 2020 13:40:21 +0000
+
+evolution-clamav (1.0.1-deb10u2) buster; urgency=medium
+
+  * Correct architecture from any to all.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Feb 2020 13:25:21 +0000
+
+evolution-clamav (1.0.1-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Feb 2020 09:45:21 +0000
+
+evolution-clamav (1.0.0+rc2-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 12 Feb 2020 10:23:27 +0000
+
+evolution-clamav (1.0.0+rc1-deb10u1) buster; urgency=medium
+
+  * Initial release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 11 Feb 2020 15:30:34 +0000
