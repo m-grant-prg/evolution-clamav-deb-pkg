@@ -1,0 +1,16 @@
+Source: evolution-clamav
+Section: misc
+Priority: optional
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper-compat (= 13), bash (>= 4.3), txt2man, txt2manwrap
+Standards-Version: 4.5.1
+Homepage: https://github.com/m-grant-prg/evolution-clamav/wiki
+Vcs-Git: https://github.com/m-grant-prg/evolution-clamav.git
+Vcs-Browser: https://github.com/m-grant-prg/evolution-clamav
+
+Package: evolution-clamav
+Architecture: all
+Depends: bash, clamav, evolution, libnotify-bin, util-linux, ${misc:Depends}
+Description: ClamAV virus checking filters for Evolution
+ Scripts to be used as a filter for Evolution to get ClamAV to scan incoming
+ mail for viruses either in a foreground process or by the daemon.
