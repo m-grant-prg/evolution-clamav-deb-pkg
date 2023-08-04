@@ -1,6 +1,7 @@
 evolution-clamav (1.0.3-0ubuntu20.04u3) UNRELEASED; urgency=medium
 
   * Correct support file versions.
+  * Correct Copyright dates.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Fri, 04 Aug 2023 09:46:02 +0100
 
