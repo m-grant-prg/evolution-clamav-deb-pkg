@@ -1,3 +1,9 @@
+evolution-clamav (1.1.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 04 Aug 2023 09:54:26 +0100
+
 evolution-clamav (1.0.3-0ubuntu22.04u2) jammy; urgency=medium
 
   * Update Copyright for 2023.
