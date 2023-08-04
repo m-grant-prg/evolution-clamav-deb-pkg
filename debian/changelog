@@ -1,11 +1,11 @@
-evolution-clamav (1.1.1+deb12u1) UNRELEASED; urgency=medium
+evolution-clamav (1.1.1+deb12u1) bookworm; urgency=medium
 
   * Correct Copyright dates.
   * Remove txt2man, rely on txt2manwrap dependencies.
   * Update watch file to support ~.
   * Merge new upstream release.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Fri, 04 Aug 2023 09:11:01 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 04 Aug 2023 09:34:31 +0100
 
 evolution-clamav (1.0.3+deb11u3) bullseye; urgency=medium
 
