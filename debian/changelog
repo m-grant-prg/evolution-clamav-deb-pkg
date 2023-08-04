@@ -3,6 +3,7 @@ evolution-clamav (1.0.3-0ubuntu20.04u3) UNRELEASED; urgency=medium
   * Correct support file versions.
   * Correct Copyright dates.
   * Remove txt2man, rely on txt2manwrap dependencies.
+  * Change Debian source format to native.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Fri, 04 Aug 2023 09:46:02 +0100
 
