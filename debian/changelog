@@ -1,3 +1,10 @@
+evolution-clamav (1.1.2-0ubuntu22.04u1) jammy; urgency=medium
+
+  * New upstream release
+  * Remove versions from Depends, too old
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 14 Dec 2023 15:32:24 +0000
+
 evolution-clamav (1.1.1-0ubuntu22.04u1) jammy; urgency=medium
 
   * Merge new upstream release.
