@@ -1,9 +1,15 @@
+evolution-clamav (1.1.3+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 17 Dec 2023 10:41:34 +0000
+
 evolution-clamav (1.1.2+deb13u1) trixie; urgency=medium
 
   * New upstream release
   * Remove versions from Depends, too old
 
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 14 Dec 2023 15:27:09 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 17 Dec 2023 10:40:53 +0000
 
 evolution-clamav (1.1.1+deb13u1) trixie; urgency=medium
 
